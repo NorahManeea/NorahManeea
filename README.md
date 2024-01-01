@@ -50,5 +50,5 @@
 ## 📫 Reach Me
 
 - 📨 Gmail: [1nourahalmanea@gmail.com](mailto:1nourahalmanea@gmail.com)
-- 👩🏻‍💻 [LinkedIn](your-linkedin-profile)
+- 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/norah-almaneea/)
 
