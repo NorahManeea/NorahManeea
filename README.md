@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
@@ -34,6 +36,11 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=norahmaneea&show_icons=true&count_private=true&hide=issues&theme=light" alt="GitHub Stats" />
 </p>
+
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norahmaneea&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 GitHub Streak
