@@ -53,6 +53,9 @@
 
 <a href="https://app.daily.dev/norahalmaneea"><img src="https://api.daily.dev/devcards/efd9a5dca8634c8b9e6c9da5b000d6af.png?r=z40" width="300" alt="Norah Almaneea's Dev Card"/></a>
 
+## 📝 Medium Articles
+
+Follow my articles on [Medium](https://medium.com/@1nourahalmanea)
 
 ## 📫 Reach Me
 
