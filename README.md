@@ -51,7 +51,7 @@
 
 ## ⌛️ Daily Dev Statistics
 
-<a href="https://app.daily.dev/norahalmaneea"><img src="https://api.daily.dev/devcards/efd9a5dca8634c8b9e6c9da5b000d6af.png?r=z40" width="300" alt="Norah Almaneea's Dev Card"/></a>
+<a href="https://app.daily.dev/norahalmaneea"><img src="https://api.daily.dev/devcards/efd9a5dca8634c8b9e6c9da5b000d6af.png?r=p1d" width="400" alt="Norah Almaneea's Dev Card"/></a>
 
 ## 📝 Medium Articles
 
