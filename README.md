@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Norah Almaneea
 
-### Full Stack Developer | MERN Stack Enthusiast
+### Software Developer
 
 ## 📌 Profile Views
 
