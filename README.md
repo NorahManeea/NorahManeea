@@ -2,11 +2,6 @@
 
 ### Software Developer
 
-## 📌 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
-
 ## 🔧 Technologies & Tools
 
 <p>
